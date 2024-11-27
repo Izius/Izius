@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Izius, Izak O. Pluško
+- 👋 Hi, I’m @Izius, Izak O. Pluško, currently working as a researcher at Faculty for mechanical engineering in Ljubljana
 - 👀 I’m interested in Physics, Programming, Modelling, Machine Learning, Arduino, Music ...
-- 🌱 I’m currently learning SQL and TensorFlow
+- 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me: izakoberckal.plusko@gmail.com
 
 <!---
